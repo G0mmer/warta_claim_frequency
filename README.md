@@ -27,4 +27,4 @@ The competition result belongs to the team. This report describes a notebook-bas
 
 ## Repository contents
 
-This repository contains the report and a project summary. The training data and model implementation are not included, as the competition took place on the closed orgnizer's enviroment. The report describes validation choices and limitations; performance on future policy periods was not established by the competition.
+This repository contains the report and a project summary. The training data and model implementation are not included, as the competition took place on the organizer's closed environment. The report describes validation choices and limitations; performance on future policy periods was not established by the competition.
